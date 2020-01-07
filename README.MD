@@ -9,3 +9,4 @@ Installation of python if not already installed ->
 1) google python 3.6
 2) Download the installer.
 3) After completion, run pacman.py using python shell.
+[![Run on Repl.it](https://repl.it/badge/github/Prakhar-FF13/Pacman-game-using-Python)](https://repl.it/github/Prakhar-FF13/Pacman-game-using-Python)
